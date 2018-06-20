@@ -17,10 +17,10 @@ Given some skeleton files provided by the course coordinators, I implemented:
    * Server catchup algorithm
    
 # The given files are :
-• A Transaction.java file.
-• A Block.java file.
-• A Blockchain.java file.
-• A BlockchainServer.java file.
-• A BlockchainServerRunnable.java file. 
-• A PeriodicCommitRunnable.java file.
-• A ServerInfo.java file.
+* A Transaction.java file.
+* A Block.java file.
+* A Blockchain.java file.
+* A BlockchainServer.java file.
+* A BlockchainServerRunnable.java file. 
+* A PeriodicCommitRunnable.java file.
+* A ServerInfo.java file.
